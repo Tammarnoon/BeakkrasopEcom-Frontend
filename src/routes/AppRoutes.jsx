@@ -16,7 +16,7 @@ import HomeUser from "../pages/user/HomeUser";
 import Manage from "../pages/admin/Manage";
 import ProtectRouteUser from "./ProtectRouteUser";
 import ProtectRouteAdmin from "./ProtectRouteAdmin";
-import UpdateProduct from "../pages/admin/Updateproduct";
+import UpdateProduct from "../pages/admin/UpdateProduct";
 import Payment from "../pages/user/Payment";
 import FormOrderAdmin from "../components/admin/FormOrderAdmin";
 import Profile from "../pages/user/Profile";
