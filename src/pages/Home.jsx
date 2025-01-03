@@ -1,5 +1,5 @@
 import BestSaleProduct from "../components/home/BestSaleProduct";
-import Content from "../components/home/content";
+import Content from "../components/home/Content";
 import NewProduct from "../components/home/NewProduct";
 
 const Home = () => {
